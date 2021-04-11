@@ -1,3 +1,3 @@
-# HackerRank Basic C Solutions
+# HackerRank Solutions
 
 More Codes Coming Soon
